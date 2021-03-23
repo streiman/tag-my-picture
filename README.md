@@ -91,7 +91,8 @@ To get a local copy up and running follow these steps.
 
 * You have to setup AWS Rekognition. Please follow [the steps in the AWS documentation](https://docs.aws.amazon.com/rekognition/latest/dg/getting-started.html). Be aware that AWS Rekognition is not for free. You can get a free trial period, but please read [the AWS documents carefully](https://aws.amazon.com/de/rekognition/pricing/). AWS Translate is [also not for free](https://aws.amazon.com/de/translate/pricing/). 
 * You need to install two python libraries:
-  ```pip3 install boto3
+  ```
+  pip3 install boto3
   pip3 install pillow
   ```
 
